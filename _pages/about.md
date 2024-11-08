@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G0LL0BQ7KR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G0LL0BQ7KR');
+</script>
 
 ___
 I am a Ph.D. student in Computer Engineering at the **Department of Information Engineering (DEI)** of the **University of Padova**, Italy, under the supervision of [Prof. Fabio Vandin](https://www.dei.unipd.it/~vandinfa/PI.html).
