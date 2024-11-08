@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+___
 I am a Ph.D. student in Computer Engineering at the **Department of Information Engineering (DEI)** of the **University of Padova**, Italy, under the supervision of [Prof. Fabio Vandin](https://www.dei.unipd.it/~vandinfa/PI.html).
 I am currently a member of the [VandinLab](https://www.dei.unipd.it/~vandinfa/index.html) and of the [AIDA Lab](https://aidalabdei.github.io/) research groups.
 
@@ -15,12 +15,16 @@ You can download [my full CV in PDF](https://cristianboldrin.github.io/files/CV_
 
 Research Interests
 ======
-My research interests are focused on **Algorithms for Data Mining and Machine Learning** and their applications in large datasets.
+
+___
+My research interests are focused on **Algorithms for Data Mining and Machine Learning**.
 In particular, I study the development of probabilistic techniques that leads to efficient algorithm of theoretically provable quality,
-significantly reducing the required computational resources. Common applications include network analytics and clustering on social networks, autonomous-system, and other large datasets. 
+significantly reducing the required computational resources. Common applications include network analytics and clustering on social networks, autonomous-systems, and other large datasets. 
 
 Contacts
 ======
+
+___
 Via Giovanni Gradenigo 6/B
 <br>
 Department of Information Engineering

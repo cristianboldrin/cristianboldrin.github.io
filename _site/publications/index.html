@@ -146,7 +146,7 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/talks/">Talks</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/Education/">Education</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/awards/">Awards</a></li>
@@ -160,6 +160,35 @@
 
     
 
+
+
+
+  
+    
+
+
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="http://localhost:4000/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        <li class="current">Publications</li>
+      
+    
+  </ol>
+</nav>
+  
 
 
 <div id="main" role="main">
@@ -259,103 +288,94 @@
   </div>
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Publications">
     
-      <h1 class="page__title">Publications</h1>
     
     
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=qC96qdQAAAAJ&hl=it">my Google Scholar profile</a>.</div>
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Publications
+</h1>
+          
+        
+        
+            
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <style>
+  ol.custom-list {
+    list-style: none; /* Remove default numbering */
+    counter-reset: custom-counter; 
+  }
+
+  ol.custom-list li {
+    counter-increment: custom-counter; 
+    margin-bottom: 5px;
+  }
+
+  ol.custom-list li::before {
+    content: "[" counter(custom-counter) "] "; 
+  }
+</style>
+
+<hr />
+
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=qC96qdQAAAAJ&amp;hl=it">my Google Scholar profile</a>.</div>
+
+<h2 id="conference-papers">Conference Papers</h2>
+
+<ol class="custom-list">
+
+    <li>
+        <b>C. Boldrin</b> and F. Vandin, “Fast and accurate triangle counting in graph streams using predictions”, to appear at 2024 IEEE International Conference on Data Mining <b>(ICDM 2024)</b>, 2024. 
+        (10,9 % acceptance rate for regular papers.)
+        <br />
+        <small>
+        Resources: 
+            Paper, 
+            <a href="https://arxiv.org/pdf/2409.15205">ArXiv Extended Version</a>, 
+            <a href="https://github.com/VandinLab/Tonic/">Code</a>, 
+            <a href="https://cristianboldrin.github.io/files/TonicTalkScalPerf.pdf">Slides</a>.
+        </small>
+    </li>
+
+
+</ol>
+
+<hr />
+
+
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
 
 
 
 
-<!-- New style rendering if publication categories are defined -->
+      </footer>
 
-  
-    
-    
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-  
-    
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-  
-    
-    
-      
-        
-      
-      
-        <h2>Conference Papers</h2><hr />
-        
-      
+
       
 
 
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/publication/2024-02-17-paper-title-number-4" rel="permalink">Paper Title Number 4
-</a>
-      
-    </h2>
-    
-    
-
-        
-          <p>Published in <i>GitHub Journal of Bugs</i>, 2024 </p>
-        
+    </div>
 
     
-    <p class="archive__item-excerpt" itemprop="description"><p>This paper is about fixing template issue #693.</p>
-</p>
-    
-    
-    
-      <p>Recommended citation: Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).<br /><a href="http://academicpages.github.io/files/paper3.pdf">Download Paper</a></p>
-    
-
   </article>
-</div>
 
-    
-      
-        
-      
-        
-      
-        
   
-
-
-
-
-
-  </div>
+  
 </div>
 
 
