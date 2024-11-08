@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-#title: "News"
+title: "News"
 # modified: 2024-08-11
 ---
 
