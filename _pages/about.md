@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+
 I am a Ph.D. student in Computer Engineering at the **Department of Information Engineering (DEI)** of the **University of Padova**, Italy, under the supervision of [Prof. Fabio Vandin](https://www.dei.unipd.it/~vandinfa/PI.html).
 I am currently a member of the [VandinLab](https://www.dei.unipd.it/~vandinfa/index.html) and of the [AIDA Lab](https://aidalabdei.github.io/) research groups.
 

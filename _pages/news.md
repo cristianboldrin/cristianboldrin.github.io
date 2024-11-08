@@ -4,8 +4,6 @@ permalink: /news/
 # modified: 2024-08-11
 ---
 
-News
-=====
 ___
 
 **Dec. 2024:** I will be joining [ICDM2024](https://icdm2024.org/) conference in Abu Dhabi, UAE, to present our accepted paper.
