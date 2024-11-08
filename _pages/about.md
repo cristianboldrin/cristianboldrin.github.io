@@ -12,6 +12,12 @@ redirect_from:
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+<<<<<<< HEAD
+=======
+
+  gtag('config', 'G-G0LL0BQ7KR');
+</script>
+>>>>>>> 66dee62427dbffa1434aa2fc29ec4f861761dd03
 
   gtag('config', 'G-G0LL0BQ7KR');
 </script>

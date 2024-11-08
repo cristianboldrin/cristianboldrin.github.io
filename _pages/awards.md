@@ -3,7 +3,15 @@ permalink: /awards/
 title: "Awards"
 # modified: 2024-08-11
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G0LL0BQ7KR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-G0LL0BQ7KR');
+</script>
 ___
 
 > **3 years Ph.D. Fellowship** (July 2023).
