@@ -22,6 +22,8 @@ ___
 University of Padova, Italy
 <br>
 Topic: Data Mining Algorithms with Machine Learning Predictions
+<br>
+Supervisor: Prof. Fabio Vandin
 
 
 > **Master Degree in Computer Engineering**, *summa cum laude* (2021 - 2023)

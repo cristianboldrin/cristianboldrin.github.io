@@ -49,8 +49,8 @@ Phone: +39 049 827 7954
 
 Mail:
 <ul style="list-style-type: disc; margin-left: -1.0em; margin-top: -1.0em">
-  <li>Departmental: <small><tt>cristian[dot]boldrin[dot]2[at]phd[dot]unipd[dot]it</tt></small></li>
-  <li>Personal: <small><tt>boldrincristian00[at]gmail[dot]com</tt></small></li>
+  <li>Departmental:<br><small><tt>cristian [dot] boldrin [dot] 2 [at] phd [dot] unipd [dot] it</tt></small></li>
+  <li>Personal:<br><small><tt>boldrincristian00 [at] gmail [dot] com</tt></small></li>
 </ul>
 
 
