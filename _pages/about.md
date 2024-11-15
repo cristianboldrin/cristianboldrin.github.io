@@ -26,7 +26,7 @@ Research Interests
 
 ___
 My research interests are focused on **Algorithms for Data Mining and Machine Learning**.
-In particular, I study the development of probabilistic techniques that leads to efficient algorithm of theoretically provable quality,
+In particular, I study the development of probabilistic techniques that lead to efficient algorithms of theoretically provable quality,
 significantly reducing the required computational resources. Common applications include network analytics and clustering on social networks, autonomous-systems, and other large datasets. 
 
 Contacts
