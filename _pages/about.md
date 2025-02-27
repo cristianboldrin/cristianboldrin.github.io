@@ -19,7 +19,7 @@ ___
 I am a Ph.D. student in Computer Engineering at the **Department of Information Engineering (DEI)** of the **University of Padova**, Italy, under the supervision of [Prof. Fabio Vandin](https://www.dei.unipd.it/~vandinfa/PI.html).
 I am currently a member of the [VandinLab](https://www.dei.unipd.it/~vandinfa/index.html) and of the [AIDA Lab](https://aidalabdei.github.io/) research groups.
 
-You can download [my full CV in PDF](https://cristianboldrin.github.io/files/CV_BoldrinCristian.pdf) (Last Update: October 2024).
+You can download [my full CV in PDF](https://cristianboldrin.github.io/files/CV_CristianBoldrin.pdf) (Last Update: February 2025).
 
 Research Interests
 ======

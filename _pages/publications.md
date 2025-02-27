@@ -40,12 +40,13 @@ ___
 <ol class="custom-list">
 
     <li>
-        <b>C. Boldrin</b> and F. Vandin, “Fast and accurate triangle counting in graph streams using predictions”, to appear at 2024 IEEE International Conference on Data Mining <b>(ICDM 2024)</b>, 2024. 
-        (10,9 % acceptance rate for regular papers.)
+        C. <b>Boldrin</b> and F. Vandin, "Fast and Accurate Triangle Counting in Graph Streams Using Predictions," 
+        2024 IEEE International Conference on Data Mining <b>(ICDM)</b>, Abu Dhabi, United Arab Emirates, 2024, pp. 31-40, 
+        doi: 10.1109/ICDM59182.2024.00010 (10,9% acceptance rate for regular papers)
         <br>
         <small>
         Resources: 
-            Paper, 
+            <a href="https://ieeexplore.ieee.org/document/10884156">Paper</a>, 
             <a href="https://arxiv.org/pdf/2409.15205">ArXiv Extended Version</a>, 
             <a href="https://github.com/VandinLab/Tonic/">Code</a>, 
             <a href="https://cristianboldrin.github.io/files/TonicTalkScalPerf.pdf">Slides</a>.
