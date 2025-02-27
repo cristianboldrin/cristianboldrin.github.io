@@ -49,7 +49,7 @@ ___
             <a href="https://ieeexplore.ieee.org/document/10884156">Paper</a>, 
             <a href="https://arxiv.org/pdf/2409.15205">ArXiv Extended Version</a>, 
             <a href="https://github.com/VandinLab/Tonic/">Code</a>, 
-            <a href="https://cristianboldrin.github.io/files/TonicTalkScalPerf.pdf">Slides</a>.
+            <a href="https://cristianboldrin.github.io/files/TonicTalk.pdf">Slides</a>.
         </small>
     </li>
 
