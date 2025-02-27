@@ -16,10 +16,10 @@ ___
 
 > **Dec. 2024:** I will be joining [ICDM2024](https://icdm2024.org/) conference in Abu Dhabi, UAE. I will present our work accepted as regular paper.
 
+> **Oct. 2024:** I will be providing teaching assistance for the course "Machine Learning" (Fall 2024), from the Master's Degree in Computer Engineering at the University of Padova.
+
 > **Sept. 2024:** I have been invited to [ScalPerf2024](https://scalperf24.bici.events/home) workshop in Bertinoro, Italy. 
 I will give a talk entitled "Fast and Accurate Triangle Counting in Graph Streams Using Predictions". 
-
-> **Oct. 2024:** I will be providing teaching assistance for the course "Machine Learning" (Fall 2024), from the Master's Degree in Computer Engineering at the University of Padova.
 
 > **Sept. 2024:** My first paper as a Ph.D. student entitled "Fast and Accurate Triangle Counting in Graph Streams Using Predictions" has been accepted at IEEE ICDM 2024 as a regular paper (acceptance rate 10.9%).
 
