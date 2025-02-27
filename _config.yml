@@ -21,7 +21,7 @@ repository               : "cristianboldrin/cristianboldrin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo_2.jpeg"
+  avatar           : "my_photo_2_cropped.jpeg"
   name             : "Cristian Boldrin"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Computer Engineering"
