@@ -49,4 +49,4 @@ Istituto Tecnico Industriale Statale "Carlo Zuccante", Mestre (VE), Italy
 
 ___
 
-You can download [my full CV in PDF](https://cristianboldrin.github.io/files/CV_CristianBoldrin.pdf) (Last Update: February 2025).
+You can download [my full CV in PDF](https://cristianboldrin.github.io/files/CV_CristianBoldrin.pdf).
