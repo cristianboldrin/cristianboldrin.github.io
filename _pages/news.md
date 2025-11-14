@@ -16,7 +16,9 @@ ___
 
 ## 2025
 
-- **September:** I joined Prof. [C. Seshadhri](https://users.soe.ucsc.edu/~sesh/) at University of California, Santa Cruz (UCSC) to collaborate with his group on counting subgraphs within the "Algorithms with Predictions" framework.
+- **November:** I participated in the Workshop on Network Algorithms, Analysis, and Learning for Science in Berkeley, CA.
+
+- **September:** I joined Prof. [C. Seshadhri](https://users.soe.ucsc.edu/~sesh/) at University of California, Santa Cruz to collaborate with him and his group on counting subgraphs within the "Algorithms with Predictions" framework.
 
 ## 2024
 
