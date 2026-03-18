@@ -14,13 +14,17 @@ title: "News"
 </script>
 ___
 
+## 2026 
+
+- **March:** I joined Prof. [Aristides Gionis](https://www.kth.se/profile/argioni) at KTH Royal Institute of Technology, Stockholm to collaborate with him and his group.
+
 ## 2025
 
 - **December:** I participated in NeurIPS 2025 conference in San Diego, CA.
 
 - **November:** I participated in the Workshop on Network Algorithms, Analysis, and Learning for Science in Berkeley, CA.
 
-- **September:** I joined Prof. [C. Seshadhri](https://users.soe.ucsc.edu/~sesh/) at University of California, Santa Cruz to collaborate with him and his group on counting subgraphs within the "Algorithms with Predictions" framework.
+- **September:** I joined Prof. [C. Seshadhri](https://users.soe.ucsc.edu/~sesh/) at University of California, Santa Cruz to collaborate with him and his group.
 
 ## 2024
 
