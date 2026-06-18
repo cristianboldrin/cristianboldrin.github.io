@@ -40,9 +40,8 @@ ___
 <ol class="custom-list">
 
     <li>
-        C. <b>Boldrin</b> and F. Vandin, "Fast and Accurate Triangle Counting in Graph Streams Using Predictions," 
-        2024 IEEE International Conference on Data Mining <b>(ICDM)</b>, Abu Dhabi, United Arab Emirates, 2024, pp. 31-40, 
-        doi: 10.1109/ICDM59182.2024.00010 (10,9% acceptance rate for regular papers)
+        C. Boldrin, F. Vandin. "Fast and Accurate Triangle Counting in Graph Streams Using Predictions", at 
+        2024 IEEE International Conference on Data Mining (ICDM), 2024.
         <br>
         <small>
         Resources: 
@@ -53,9 +52,31 @@ ___
         </small>
     </li>
 
+    <li>
+        C. Boldrin, F. Vandin. "Sensitivity Sampling with Predictions for k-Means Clustering", appearing at 
+        Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2026
+        <br>
+        <small>
+        Resources:
+            <a href="https://github.com/VandinLab/PreSenS/">Code</a>
+        </small>
+    </li>
+
 
 </ol>
 
+## Journals
+
+
+<ol class="custom-list">
+
+    <li>
+        C. Boldrin, N. Bulat, F. Vandin. "Fast and Accurate Triangle Counting in Graph Streams Using Predictions", Knowl
+        Inf Syst 68, 189 (2026).
+    </li>
+
+
+</ol>
 
 
 ---

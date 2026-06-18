@@ -14,15 +14,21 @@ title: "News"
 </script>
 ___
 
-## 2026 
+## 2026
+
+- **June:** I attended HALG Conference in Stockholm.
+
+- **May**: Our work *"Sensitivity Sampling with Predictions for k-Means Clustering"* with Fabio Vandin has been accepted at ECML PKDD 2026.
 
 - **March:** I joined Prof. [Aristides Gionis](https://www.kth.se/profile/argioni) at KTH Royal Institute of Technology, Stockholm to collaborate with him and his group.
 
+- **February**: Our work *"Fast and Accurate Triangle Counting in Graph Streams Using Predictions"* with Nikola Bulat and Fabio Vandin has been accepted at Knowledge and Information Systems Journal.
+
 ## 2025
 
-- **December:** I participated in NeurIPS 2025 conference in San Diego, CA.
+- **December:** I attended NeurIPS 2025 conference in San Diego, CA.
 
-- **November:** I participated in the Workshop on Network Algorithms, Analysis, and Learning for Science in Berkeley, CA.
+- **November:** I attended the Workshop on Network Algorithms, Analysis, and Learning for Science in Berkeley, CA.
 
 - **September:** I joined Prof. [C. Seshadhri](https://users.soe.ucsc.edu/~sesh/) at University of California, Santa Cruz to collaborate with him and his group.
 
@@ -33,9 +39,9 @@ ___
 - **October:** I will be providing teaching assistance for the course "Machine Learning" (Fall 2024), from the Master's Degree in Computer Engineering at the University of Padova.
 
 - **September:** I have been invited to [ScalPerf2024](https://scalperf24.bici.events/home) workshop in Bertinoro, Italy. 
-I will give a talk entitled "Fast and Accurate Triangle Counting in Graph Streams Using Predictions". 
+I will give a talk entitled *"Fast and Accurate Triangle Counting in Graph Streams Using Predictions"*. 
 
-- **September:** My first paper as a Ph.D. student entitled "Fast and Accurate Triangle Counting in Graph Streams Using Predictions" has been accepted at IEEE ICDM 2024 as a regular paper (acceptance rate 10.9%).
+- **September:** My first paper as a Ph.D. student entitled *"Fast and Accurate Triangle Counting in Graph Streams Using Predictions"* has been accepted at IEEE ICDM 2024 as a regular paper (acceptance rate 10.9%).
 
 ## 2023
 
