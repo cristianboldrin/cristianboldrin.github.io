@@ -16,6 +16,10 @@ ___
 
 ## 2026
 
+- **September:**  Our work *"Single-Pass Estimation of the Clustering Coefficient Distribution in Graph Streams" with C. Seshadhri has been accepted at VLDB 2027.
+
+- **September:** I attended VLDB Conference in Boston and ECML-PKDD Conference in Naples.
+
 - **June:** I attended HALG Conference in Stockholm.
 
 - **May**: Our work *"Sensitivity Sampling with Predictions for k-Means Clustering"* with Fabio Vandin has been accepted at ECML PKDD 2026.

@@ -40,25 +40,39 @@ ___
 <ol class="custom-list">
 
     <li>
+        C. Boldrin, S. Seshadhri. "Single-Pass Estimation of the Clustering Coefficient Distribution in Graph Streams", appearing at 
+        VLDB, 2027.
+        <br>
+        <small>
+        Resources:
+            <a href="https://github.com/CristianBold4/BOLIDE/">Code</a>
+        </small>
+    </li>
+
+
+    <li>
+        C. Boldrin, F. Vandin. "Sensitivity Sampling with Predictions for k-Means Clustering", appearing at 
+        Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2026.
+        <br>
+        <small>
+        Resources:
+            <a href="https://link.springer.com/chapter/10.1007/978-3-032-37657-2_2">Paper</a>,
+            <a href="https://arxiv.org/pdf/2607.04949">ArXiv</a>, 
+            <a href="https://github.com/VandinLab/PreSenS/">Code</a>
+            <a href="https://cristianboldrin.github.io/files/PreSenSTalk.pdf">Slides</a>.
+        </small>
+    </li>
+
+    <li>
         C. Boldrin, F. Vandin. "Fast and Accurate Triangle Counting in Graph Streams Using Predictions", at 
         2024 IEEE International Conference on Data Mining (ICDM), 2024.
         <br>
         <small>
         Resources: 
             <a href="https://ieeexplore.ieee.org/document/10884156">Paper</a>, 
-            <a href="https://arxiv.org/pdf/2409.15205">ArXiv Extended Version</a>, 
+            <a href="https://arxiv.org/pdf/2409.15205">ArXiv</a>, 
             <a href="https://github.com/VandinLab/Tonic/">Code</a>, 
             <a href="https://cristianboldrin.github.io/files/TonicTalk.pdf">Slides</a>.
-        </small>
-    </li>
-
-    <li>
-        C. Boldrin, F. Vandin. "Sensitivity Sampling with Predictions for k-Means Clustering", appearing at 
-        Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2026
-        <br>
-        <small>
-        Resources:
-            <a href="https://github.com/VandinLab/PreSenS/">Code</a>
         </small>
     </li>
 
